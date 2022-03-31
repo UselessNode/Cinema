@@ -1,0 +1,16 @@
+d:\users\is12876\Desktop\Project-Cinema\Cinema\bin\Debug\Database\Base.mdf
+d:\users\is12876\Desktop\Project-Cinema\Cinema\bin\Debug\Database\Base_log.ldf
+d:\users\is12876\Desktop\Project-Cinema\Cinema\bin\Debug\Cinema 1.0.exe.config
+d:\users\is12876\Desktop\Project-Cinema\Cinema\bin\Debug\Cinema 1.0.exe
+d:\users\is12876\Desktop\Project-Cinema\Cinema\bin\Debug\Cinema 1.0.pdb
+d:\users\is12876\Desktop\Project-Cinema\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+d:\users\is12876\Desktop\Project-Cinema\Cinema\obj\Debug\Cinema.EditingForm.resources
+d:\users\is12876\Desktop\Project-Cinema\Cinema\obj\Debug\Cinema.AddingForm.resources
+d:\users\is12876\Desktop\Project-Cinema\Cinema\obj\Debug\Cinema.FormHome.resources
+d:\users\is12876\Desktop\Project-Cinema\Cinema\obj\Debug\Cinema.OtherTables.resources
+d:\users\is12876\Desktop\Project-Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+d:\users\is12876\Desktop\Project-Cinema\Cinema\obj\Debug\Cinema.SearchForm.resources
+d:\users\is12876\Desktop\Project-Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+d:\users\is12876\Desktop\Project-Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+d:\users\is12876\Desktop\Project-Cinema\Cinema\obj\Debug\Cinema 1.0.exe
+d:\users\is12876\Desktop\Project-Cinema\Cinema\obj\Debug\Cinema 1.0.pdb
